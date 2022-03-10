@@ -1,2 +1,3 @@
 # first-python-code
-Projek pertama python wildan pake ssh
+Projek pertama python wildan
+with ssh
